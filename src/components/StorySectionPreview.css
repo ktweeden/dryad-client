@@ -1,0 +1,12 @@
+.section-preview {
+  border: 1px solid gray;
+  min-width: 20%;
+  padding: 1rem;
+  margin: 0 0.5rem 1rem 0.5rem;
+  flex: 1;
+}
+
+.section-preview:hover {
+  background-color: aliceblue;
+  border: 1px solid aliceblue;
+}
